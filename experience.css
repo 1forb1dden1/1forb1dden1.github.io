@@ -77,8 +77,8 @@ main {
 }
 
 .job-logo {
-    width: 100px; /* Adjust size as needed */
-    height: auto;
+    width: 100px;
+    height: 100px;
 }
 
 @media (max-width: 400px) {
